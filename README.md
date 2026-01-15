@@ -53,7 +53,42 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions *
 
 ## 🌐 Languages / Flags
 <div align="center">
-![FR](https://img.shields.io/badge/FR-FRA-0055A4?style=for-the-badge&logo=flag&logoColor=white)
+## 🌐 Langues / Languages
+<div align="center">
+
+<!-- Français -->
+<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fr.svg" alt="FR" width="35" height="25"/> Français
+
+<!-- Anglais -->
+<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" alt="EN" width="35" height="25"/> English
+
+</div>
+
+---
+
+## 📫 Connect with me
+<div align="center">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/tonprofil" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+<!-- Discord -->
+<a href="https://discord.com/users/tondiscord" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+</a>
+
+<!-- Portfolio -->
+<a href="https://tonportfolio.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" width="40" height="40"/>
+</a>
+
+<!-- Email -->
+<a href="mailto:tonemail@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40"/>
+</a>
+
 </div>
 
 ---
@@ -70,7 +105,6 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions *
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="35" height="35"/>
 
 <!-- Outils / DevOps -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
@@ -100,26 +134,6 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions *
 
 ---
 
-## 📂 Projets récents
-<div align="center">
-**Mini réseau social**  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180"/>  
-
-**Dashboard interactif**  
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180"/>  
-
-**Projets universitaires**  
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="180"/>  
-</div>
-
----
-
-## 📫 Contact
-<div align="center">
-[LinkedIn](https://www.linkedin.com/in/tonprofil) · [Email](mailto:tonemail@gmail.com)
-</div>
-
----
 
 <div align="center">
   <p>Merci de visiter mon profil ! 🚀</p>
