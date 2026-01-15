@@ -24,7 +24,6 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions *
 ---
 
 ## 📫 Contact
-## 📫 Connect with me
 <div align="center">
 
 <!-- LinkedIn -->
