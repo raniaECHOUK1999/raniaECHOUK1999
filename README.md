@@ -24,6 +24,7 @@ Animée par la résolution de problèmes complexes, je conçois des solutions in
 ## 🛠️ Compétences techniques
 
 <div align="center">
+
 ![Java](https://skillicons.dev/icons?i=java) 
 ![Angular](https://skillicons.dev/icons?i=angular) 
 ![Spring Boot](https://skillicons.dev/icons?i=springboot) 
@@ -52,9 +53,9 @@ Animée par la résolution de problèmes complexes, je conçois des solutions in
 ## 🎓 Formation
 
 - **Diplôme d’ingénieur en informatique** - 2026
-  Université TEK-UP – Tunis, Tunisie  
+- **Licence en développement des systèmes d’informations** – 2021
 
-- **Licence en développement des systèmes d’informations** – 2021  
+- **Baccalauréat Sciences Expérimentales** – 2018  
 
 
 ---
