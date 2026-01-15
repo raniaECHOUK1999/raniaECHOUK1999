@@ -6,17 +6,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bienvenue%20sur%20mon%20profil!&fontSize=40" />
   </p>
 
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-
-  <!-- Stats -->
+  <!-- Stats GitHub -->
   <p>
     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical)
   </p>
@@ -33,22 +23,30 @@ Animée par la résolution de problèmes complexes, je conçois des solutions in
 
 ## 🛠️ Compétences techniques
 
-- **Systèmes d’exploitation :** Windows  
-- **Langages de programmation :** Java, JavaScript, TypeScript  
-- **Bases de données :** MySQL, PostgreSQL, Oracle 11g  
-- **Frameworks & technologies :** Angular, Spring Boot, Ionic  
-- **Méthodologies :** Agile (Scrum)  
-- **Gestion de versions :** Git, SVN  
-- **Outils DevOps & CI/CD :** Docker, Jenkins, SonarQube  
-- **Tests :** JUnit (tests unitaires)  
-- **Gestion de projet & collaboration :** Jira  
-- **API & documentation :** Swagger  
+<div align="center">
+
+![Java](https://skillicons.dev/icons?i=java) 
+![Angular](https://skillicons.dev/icons?i=angular) 
+![Spring Boot](https://skillicons.dev/icons?i=springboot) 
+![Jenkins](https://skillicons.dev/icons?i=jenkins) 
+![SonarQube](https://skillicons.dev/icons?i=sonarqube) 
+![Git](https://skillicons.dev/icons?i=git) 
+![GitLab](https://skillicons.dev/icons?i=gitlab) 
+![Jira](https://skillicons.dev/icons?i=jira) 
+![JUnit](https://skillicons.dev/icons?i=junit) 
+![Ionic](https://skillicons.dev/icons?i=ionic) 
+![Django](https://skillicons.dev/icons?i=django) 
+![Docker](https://skillicons.dev/icons?i=docker) 
+![AWS](https://skillicons.dev/icons?i=aws)
+
+</div>
 
 ---
 
 ## 🎓 Formation
 
-- **Diplôme d’ingénieur en informatique** - 2026 
+- **Diplôme d’ingénieur en informatique** - 2026
+  Université TEK-UP – Tunis, Tunisie  
 
 - **Licence en développement des systèmes d’informations** – 2021  
 
