@@ -13,9 +13,7 @@
   </p>
 
   <!-- Stats GitHub -->
-  <p>
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical)
-  </p>
+ 
 </div>
 
 ---
@@ -29,31 +27,33 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions i
 
 ## 🛠️ Compétences techniques
 
+## 🛠️ Compétences techniques
+
 <div align="center">
 
-**Langages & Frameworks :**  
-<code>Java</code> <code>Angular</code> <code>Spring Boot</code> <code>Django</code> <code>Ionic</code>  
-
-**Outils & DevOps :**  
-<code>VS Code</code> <code>IntelliJ</code> <code>Git</code> <code>GitLab</code> <code>Jira</code> <code>Jenkins</code> <code>SonarQube</code> <code>Docker</code> <code>AWS</code> <code>Copilot</code> <code>AI</code>  
-
-**Bases de données :**  
-<code>Oracle</code> <code>PostgreSQL</code> <code>MongoDB</code>  
-
-**Tests :**  
-<code>JUnit</code>  
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) 
+![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg) 
+![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) 
+![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) 
+![Ionic](https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg) 
+![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg) 
+![SonarQube](https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg) 
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) 
+![GitLab](https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg) 
+![Jira](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg) 
+![JUnit](https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg) 
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) 
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg) 
+![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) 
+![IntelliJ IDEA](https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg) 
+![GitHub Copilot](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) 
+![OpenAI](https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg) 
+![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg) 
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) 
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) 
 
 </div>
 
-<!-- Barres de compétences animées -->
-<p align="center">
-<img src="https://progress-bar.dev/95/?title=Java&width=500&height=20&color=green" />
-<img src="https://progress-bar.dev/90/?title=Angular&width=500&height=20&color=red" />
-<img src="https://progress-bar.dev/90/?title=Spring%20Boot&width=500&height=20&color=green" />
-<img src="https://progress-bar.dev/80/?title=Ionic&width=500&height=20&color=blue" />
-<img src="https://progress-bar.dev/70/?title=Docker&width=500&height=20&color=sky" />
-<img src="https://progress-bar.dev/80/?title=AI&width=500&height=20&color=purple" />
-</p>
 
 ---
 
