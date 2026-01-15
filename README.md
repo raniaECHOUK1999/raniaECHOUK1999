@@ -22,40 +22,10 @@ Je maîtrise **tout le cycle d’un projet**, de la conception à la maintenance
 Passionnée par la résolution de problèmes complexes, je crée des solutions **innovantes et sur mesure**.
 
 ---
-
-## 📫 Contact
-<div align="center">
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/tonprofil" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-
-<!-- Discord -->
-<a href="https://discord.com/users/tondiscord" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
-</a>
-
-<!-- Portfolio -->
-<a href="https://tonportfolio.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" width="40" height="40"/>
-</a>
-
-<!-- Email -->
-<a href="mailto:tonemail@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40"/>
-</a>
-
-</div>
-
-
 ---
 
 ## 🌐 Languages / Flags
 <div align="center">
-## 🌐 Langues / Languages
-<div align="center">
-
 <!-- Français -->
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fr.svg" alt="FR" width="35" height="25"/> Français
 
@@ -65,9 +35,8 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions *
 </div>
 
 ---
-
 ## 📫 Connect with me
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/tonprofil" target="_blank">
@@ -90,6 +59,7 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions *
 </a>
 
 </div>
+
 
 ---
 
