@@ -24,20 +24,26 @@ Animée par la résolution de problèmes complexes, je conçois des solutions in
 ## 🛠️ Compétences techniques
 
 <div align="center">
-
 ![Java](https://skillicons.dev/icons?i=java) 
 ![Angular](https://skillicons.dev/icons?i=angular) 
 ![Spring Boot](https://skillicons.dev/icons?i=springboot) 
+![Django](https://skillicons.dev/icons?i=django) 
+![Ionic](https://skillicons.dev/icons?i=ionic) 
 ![Jenkins](https://skillicons.dev/icons?i=jenkins) 
 ![SonarQube](https://skillicons.dev/icons?i=sonarqube) 
 ![Git](https://skillicons.dev/icons?i=git) 
 ![GitLab](https://skillicons.dev/icons?i=gitlab) 
 ![Jira](https://skillicons.dev/icons?i=jira) 
 ![JUnit](https://skillicons.dev/icons?i=junit) 
-![Ionic](https://skillicons.dev/icons?i=ionic) 
-![Django](https://skillicons.dev/icons?i=django) 
 ![Docker](https://skillicons.dev/icons?i=docker) 
-![AWS](https://skillicons.dev/icons?i=aws)
+![AWS](https://skillicons.dev/icons?i=aws) 
+![VS Code](https://skillicons.dev/icons?i=vscode) 
+![IntelliJ](https://skillicons.dev/icons?i=intellij) 
+![Copilot](https://skillicons.dev/icons?i=github) 
+![AI](https://skillicons.dev/icons?i=openai) 
+![Oracle](https://skillicons.dev/icons?i=oracle) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 </div>
 
