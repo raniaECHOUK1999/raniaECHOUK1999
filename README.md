@@ -24,11 +24,31 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions *
 ---
 
 ## 📫 Contact
+## 📫 Connect with me
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonemail@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://tonportfolio.com)
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/tonprofil" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+<!-- Discord -->
+<a href="https://discord.com/users/tondiscord" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+</a>
+
+<!-- Portfolio -->
+<a href="https://tonportfolio.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" width="40" height="40"/>
+</a>
+
+<!-- Email -->
+<a href="mailto:tonemail@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40"/>
+</a>
+
 </div>
+
 
 ---
 
