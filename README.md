@@ -17,7 +17,7 @@
 ---
 
 ## 💼 Professional Profile
-Full-Stack Developer with **4 years of experience** in web and mobile development.  
+Full-Stack Developer with **5 years of experience** in web and mobile development.  
 I master **the full project lifecycle**, from design to maintenance, with a specialization in **Spring Boot** and **Angular**.  
 Passionate about solving complex problems, I create **innovative and tailored solutions**.
 
@@ -38,18 +38,13 @@ Passionate about solving complex problems, I create **innovative and tailored so
 <div align="center" style="display: flex; gap: 20px; justify-content: center;">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+<a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rania-echouk-8195b519b/)" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 
 <!-- Email -->
-<a href="mailto:youremail@gmail.com" target="_blank">
+<a href="mailto:echoukrania@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40" alt="Email"/>
-</a>
-
-<!-- Portfolio -->
-<a href="https://yourportfolio.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/portfolio.png" width="40" height="40" alt="Portfolio"/>
 </a>
 
 </div>
