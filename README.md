@@ -25,6 +25,10 @@ Passionate about solving complex problems, I create **innovative and tailored so
 
 ## 🌐 Languages / Flags
 <div align="center">
+
+<!-- Arabic -->
+<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/tn.svg" alt="AR" width="35" height="25"/> Arabic
+
 <!-- French -->
 <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fr.svg" alt="FR" width="35" height="25"/> French
 
@@ -44,7 +48,7 @@ Passionate about solving complex problems, I create **innovative and tailored so
 
 <!-- Email -->
 <a href="mailto:echoukrania@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40" alt="Email"/>
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="Email"/>
 </a>
 
 </div>
