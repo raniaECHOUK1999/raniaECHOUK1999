@@ -26,55 +26,51 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions i
 
 ---
 
-## 🛠️ Compétences techniques
+---
 
-## 🛠️ Compétences techniques
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonemail@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://tonportfolio.com)
 
-## 🛠️ Compétences techniques
+---
 
-<div align="center">
+## 🌐 Languages / Flags
+![FR](https://img.shields.io/badge/FR-FRA-0055A4?style=for-the-badge&logo=flag&logoColor=white)
 
-<!-- Langages & Frameworks -->
+---
+
+## 🛠️ Skills
+
+<!-- Langages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+<!-- Frameworks / Frontend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40"/>
 
-<!-- Outils -->
+<!-- Outils / DevOps -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Jenkins-C24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-239120?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
 
 <!-- Bases de données -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-
-<!-- Badges pour outils non disponibles dans Devicon -->
-<img src="https://img.shields.io/badge/Jenkins-C24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-239120?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot"/>
-<img src="https://img.shields.io/badge/openAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit&logoColor=white" alt="JUnit"/>
-
-</div>
-
-<!-- Barres de compétences animées -->
-<p align="center">
-<img src="https://progress-bar.dev/95/?title=Java&width=500&height=20&color=green" />
-<img src="https://progress-bar.dev/90/?title=Angular&width=500&height=20&color=red" />
-<img src="https://progress-bar.dev/90/?title=Spring%20Boot&width=500&height=20&color=green" />
-<img src="https://progress-bar.dev/80/?title=Ionic&width=500&height=20&color=blue" />
-<img src="https://progress-bar.dev/80/?title=Django&width=500&height=20&color=black" />
-<img src="https://progress-bar.dev/80/?title=Docker&width=500&height=20&color=sky" />
-<img src="https://progress-bar.dev/80/?title=AI&width=500&height=20&color=purple" />
-</p>
-
 ---
 
 ## 🎓 Formation
