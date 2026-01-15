@@ -1,9 +1,15 @@
 <div align="center">
-  <h1>👩‍💻 Bonjour, je suis Rania ECHOUK</h1>
-  <p>Ingénieure en informatique & Développeuse Full-Stack passionnée par la création de solutions innovantes</p>
+  <!-- Titre animé -->
+  <h1>👩‍💻 Rania ECHOUK</h1>
+  <h3>
+    <i>Ingénieure Informatique & Développeuse Full-Stack</i>
+  </h3>
+
+  <!-- Animation "typing" -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FFDD&center=true&vCenter=true&width=600&lines=Code+%26+Innovation;Spring+Boot+%7C+Angular+%7C+Ionic;AI+%26+DevOps" />
 
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Code%20%26%20Innovation%20%3A%20Mon%20Univers!&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bienvenue+dans+mon+univers!&fontSize=35" />
   </p>
 
   <!-- Stats GitHub -->
@@ -15,9 +21,9 @@
 ---
 
 ## 💼 Profil professionnel
-Développeuse Full-Stack avec quatre ans d’expérience dans le développement d’applications web et mobiles.  
-Je maîtrise l’ensemble du cycle de vie d’un projet, de la conception à la maintenance, avec une spécialisation **Spring Boot** et **Angular**.  
-Animée par la résolution de problèmes complexes, je conçois des solutions innovantes et sur mesure, répondant efficacement aux besoins des clients.
+Développeuse Full-Stack avec 4 ans d’expérience dans le développement web et mobile.  
+Je maîtrise tout le cycle d’un projet, de la conception à la maintenance, avec une spécialisation **Spring Boot** et **Angular**.  
+Passionnée par la résolution de problèmes complexes, je crée des solutions innovantes et sur mesure.
 
 ---
 
@@ -25,38 +31,53 @@ Animée par la résolution de problèmes complexes, je conçois des solutions in
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-239120?style=for-the-badge&logo=github&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Langages & Frameworks :**  
+<code>Java</code> <code>Angular</code> <code>Spring Boot</code> <code>Django</code> <code>Ionic</code>  
+
+**Outils & DevOps :**  
+<code>VS Code</code> <code>IntelliJ</code> <code>Git</code> <code>GitLab</code> <code>Jira</code> <code>Jenkins</code> <code>SonarQube</code> <code>Docker</code> <code>AWS</code> <code>Copilot</code> <code>AI</code>  
+
+**Bases de données :**  
+<code>Oracle</code> <code>PostgreSQL</code> <code>MongoDB</code>  
+
+**Tests :**  
+<code>JUnit</code>  
 
 </div>
+
+<!-- Barres de compétences animées -->
+<p align="center">
+<img src="https://progress-bar.dev/95/?title=Java&width=500&height=20&color=green" />
+<img src="https://progress-bar.dev/90/?title=Angular&width=500&height=20&color=red" />
+<img src="https://progress-bar.dev/90/?title=Spring%20Boot&width=500&height=20&color=green" />
+<img src="https://progress-bar.dev/80/?title=Ionic&width=500&height=20&color=blue" />
+<img src="https://progress-bar.dev/70/?title=Docker&width=500&height=20&color=sky" />
+<img src="https://progress-bar.dev/80/?title=AI&width=500&height=20&color=purple" />
+</p>
 
 ---
 
 ## 🎓 Formation
 
-- **Diplôme d’ingénieur en informatique** - 2026
+- **Diplôme d’ingénieur en informatique** (2026, cours du soir) – Université TEK-UP, Tunis  
+- **Licence en développement des systèmes d’informations** – IST Nabeul, 2021  
+- **Baccalauréat Sciences Expérimentales** – Lycée Al Farrabi Mornaguia, 2018  
 
-- **Licence en développement des systèmes d’informations** – 2021  
+---
 
-- **Baccalauréat Sciences Expérimentales** – 2018  
+## 📂 Projets récents
+<div align="center">
+
+**Mini réseau social**  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>  
+
+**Dashboard interactif**  
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200"/>  
+
+**Projets universitaires**  
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200"/>  
+
+</div>
 
 ---
 
@@ -67,7 +88,5 @@ Animée par la résolution de problèmes complexes, je conçois des solutions in
 
 <div align="center">
   <p>Merci de visiter mon profil ! 🚀</p>
-  <p>
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=footer" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=footer" />
 </div>
