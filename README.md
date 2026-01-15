@@ -9,11 +9,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FFDD&center=true&vCenter=true&width=600&lines=Code+%26+Innovation;Spring+Boot+%7C+Angular+%7C+Ionic;AI+%26+DevOps" />
 
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bienvenue+dans+mon+univers!&fontSize=35" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenue+dans+mon+univers!&fontSize=35" />
   </p>
 
   <!-- Stats GitHub -->
- 
+  <p>
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical)
+  </p>
 </div>
 
 ---
@@ -24,8 +26,6 @@ Je maîtrise tout le cycle d’un projet, de la conception à la maintenance, av
 Passionnée par la résolution de problèmes complexes, je crée des solutions innovantes et sur mesure.
 
 ---
-
-## 🛠️ Compétences techniques
 
 ## 🛠️ Compétences techniques
 
@@ -54,14 +54,28 @@ Passionnée par la résolution de problèmes complexes, je crée des solutions i
 
 </div>
 
+<!-- Barres de compétences animées -->
+<p align="center">
+<img src="https://progress-bar.dev/95/?title=Java&width=500&height=20&color=green" />
+<img src="https://progress-bar.dev/90/?title=Angular&width=500&height=20&color=red" />
+<img src="https://progress-bar.dev/90/?title=Spring%20Boot&width=500&height=20&color=green" />
+<img src="https://progress-bar.dev/80/?title=Ionic&width=500&height=20&color=blue" />
+<img src="https://progress-bar.dev/80/?title=Django&width=500&height=20&color=black" />
+<img src="https://progress-bar.dev/80/?title=Docker&width=500&height=20&color=sky" />
+<img src="https://progress-bar.dev/80/?title=AI&width=500&height=20&color=purple" />
+</p>
 
 ---
 
 ## 🎓 Formation
 
-- **Diplôme d’ingénieur en informatique** (2026, cours du soir) – Université TEK-UP, Tunis  
-- **Licence en développement des systèmes d’informations** – IST Nabeul, 2021  
-- **Baccalauréat Sciences Expérimentales** – Lycée Al Farrabi Mornaguia, 2018  
+- **Diplôme d’ingénieur en informatique** - 2026
+
+  
+- **Licence en développement des systèmes d’informations** –  2021
+
+  
+- **Baccalauréat Sciences Expérimentales** – 2018  
 
 ---
 
